@@ -11,3 +11,6 @@ Su propósito es brindar a la comunidad de programación informática (CPI) —y
 
 [Frontend](https://github.com/aarongutierrez08/sportbook-frontend)
 
+## RFC
+
+https://docs.google.com/document/d/1ZdyiPwTxHXNxJX5nlbh0cLqvPMMYo4mSJ9n5VM2Zq1o/edit?usp=sharing
